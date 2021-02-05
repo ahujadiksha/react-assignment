@@ -1,16 +1,9 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
-import Users from './Users';
-import UserDetail from './UserDetail';
+import Routers from './Routers';
 
 function App() {
 	return (
-		<div className='App'>
-			<Router>
-				<Route exact={true} component={Users} path='/' />
-				<Route component={UserDetail} path='/user/:id' />
-			</Router>
-		</div>
+		<Routers />
 	);
 }
 

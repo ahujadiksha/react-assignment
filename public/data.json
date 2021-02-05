@@ -1,66 +1,74 @@
 [
-    {
-        "_id": 1,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 2,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 3,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 4,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 5,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 6,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 7,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    },
-    {
-        "_id": 8,
-        "name": "Leena Graham",
-        "email": "sincera@april.biz",
-        "phone": "1-777-123-1234",
-        "website": "http://hideorg.com",
-        "img": "https://bootdey.com/img/Content/avatar/avatar2.png"
-    }
+	{
+		"_id": 1,
+		"name": "Del Phineum",
+		"email": "del.phineum@april.biz",
+		"phone": "1-777-123-1234",
+		"website": "http://phineum.com",
+		"img": "images/avatar-1.jpg",
+		"favourite": false
+	},
+	{
+		"_id": 2,
+		"name": "Jimmy Changa",
+		"email": "jimmy.changa@april.biz",
+		"phone": "1-777-123-1235",
+		"website": "http://changa.com",
+		"img": "images/avatar-2.png",
+		"favourite": false
+	},
+	{
+		"_id": 3,
+		"name": "Nick Bocker",
+		"email": "nick.bocker@april.biz",
+		"phone": "1-777-123-1236",
+		"website": "http://bocker.com",
+		"img": "images/avatar-3.png",
+		"favourite": false
+	},
+	{
+		"_id": 4,
+		"name": "Allie Grater",
+		"email": "allie.grater@april.biz",
+		"phone": "1-777-123-1237",
+		"website": "http://grater.com",
+		"img": "images/avatar-4.png",
+		"favourite": false
+	},
+	{
+		"_id": 5,
+		"name": "Leena Graham",
+		"email": "leena.graham@april.biz",
+		"phone": "1-777-123-1238",
+		"website": "http://graham.com",
+		"img": "images/avatar-5.png",
+		"favourite": false
+	},
+	{
+		"_id": 6,
+		"name": "Eileen Sideways",
+		"email": "eileen.sideways@april.biz",
+		"phone": "1-777-123-1239",
+		"website": "http://sideways.com",
+		"img": "images/avatar-6.png",
+		"favourite": false
+	},
+	{
+		"_id": 7,
+		"name": "Phil Harmonic",
+		"email": "phil.harmonic@april.biz",
+		"phone": "1-777-123-1230",
+		"website": "http://harmonic.com",
+		"img": "images/avatar-7.png",
+		"favourite": false
+	},
+	{
+		"_id": 8,
+		"name": "Anne Fibbiyon",
+		"email": "anne.fibbiyon@april.biz",
+		"phone": "1-777-123-1231",
+		"website": "http://fibbiyon.com",
+		"img": "images/avatar-8.png",
+		"favourite": false
+	}
 ]
